@@ -113,18 +113,4 @@ the research questions, methods, charts and findings.
 
 File names may differ depending on the version saved or downloaded.
 
-## Limitations
 
--   This is a descriptive analysis of the supplied dataset.
--   Group averages can hide variation between individual counties,
-    months and years.
--   Correlation does not establish cause and effect.
--   The analysis does not identify the causes of differences between
-    counties or months.
--   Findings should be checked against current official health data
-    before being used for operational or policy decisions.
-
-## Author
-
-**Kenya Malaria Analysis Project**\
-Study period: **2015--2025**
