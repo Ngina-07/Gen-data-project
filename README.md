@@ -111,6 +111,6 @@ the research questions, methods, charts and findings.
 3.  Open the PowerPoint presentation to review the project summary and
     findings.
 
-File names may differ depending on the version saved or downloaded.
+
 
 
